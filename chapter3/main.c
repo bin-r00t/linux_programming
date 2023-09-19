@@ -22,6 +22,8 @@ int main()
   /*
     $ echo hello languageC | ./a.out
     or
+    $ ./a.out < some.txt
+    or
     $ ./a.out
     then enter something
     try 24 characters:
